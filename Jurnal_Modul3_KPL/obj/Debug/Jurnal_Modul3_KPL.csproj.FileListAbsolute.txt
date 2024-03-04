@@ -1,0 +1,10 @@
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\bin\Debug\Jurnal_Modul3_KPL.exe.config
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\bin\Debug\Jurnal_Modul3_KPL.exe
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\bin\Debug\Jurnal_Modul3_KPL.pdb
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.csproj.AssemblyReference.cache
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.Form1.resources
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.Properties.Resources.resources
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.csproj.GenerateResource.cache
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.csproj.CoreCompileInputs.cache
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.exe
+D:\Jurnal_Modul3_KPL\Jurnal_Modul3_KPL\obj\Debug\Jurnal_Modul3_KPL.pdb
